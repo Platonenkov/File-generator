@@ -1,0 +1,14 @@
+C:\_MainData\File-generator.git\FilesEncodingScaner\bin\Debug\netcoreapp3.1\FilesEncodingScaner.exe
+C:\_MainData\File-generator.git\FilesEncodingScaner\obj\Debug\netcoreapp3.1\FilesEncodingScaner.AssemblyInfoInputs.cache
+C:\_MainData\File-generator.git\FilesEncodingScaner\obj\Debug\netcoreapp3.1\FilesEncodingScaner.AssemblyInfo.cs
+C:\_MainData\File-generator.git\FilesEncodingScaner\bin\Debug\netcoreapp3.1\Goblinfactory.Konsole.dll
+C:\_MainData\File-generator.git\FilesEncodingScaner\obj\Debug\netcoreapp3.1\FilesEncodingScaner.csproj.CopyComplete
+C:\_MainData\File-generator.git\FilesEncodingScaner\bin\Debug\netcoreapp3.1\MathCore.dll
+C:\_MainData\File-generator.git\FilesEncodingScaner\obj\Debug\netcoreapp3.1\FilesEncodingScaner.csprojAssemblyReference.cache
+C:\_MainData\File-generator.git\FilesEncodingScaner\bin\Debug\netcoreapp3.1\FilesEncodingScaner.deps.json
+C:\_MainData\File-generator.git\FilesEncodingScaner\bin\Debug\netcoreapp3.1\FilesEncodingScaner.runtimeconfig.json
+C:\_MainData\File-generator.git\FilesEncodingScaner\bin\Debug\netcoreapp3.1\FilesEncodingScaner.runtimeconfig.dev.json
+C:\_MainData\File-generator.git\FilesEncodingScaner\bin\Debug\netcoreapp3.1\FilesEncodingScaner.dll
+C:\_MainData\File-generator.git\FilesEncodingScaner\bin\Debug\netcoreapp3.1\FilesEncodingScaner.pdb
+C:\_MainData\File-generator.git\FilesEncodingScaner\obj\Debug\netcoreapp3.1\FilesEncodingScaner.dll
+C:\_MainData\File-generator.git\FilesEncodingScaner\obj\Debug\netcoreapp3.1\FilesEncodingScaner.pdb

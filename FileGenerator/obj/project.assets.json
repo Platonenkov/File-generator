@@ -1,0 +1,102 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Goblinfactory.Konsole/5.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Goblinfactory.Konsole.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Goblinfactory.Konsole.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Goblinfactory.Konsole/5.0.1": {
+      "sha512": "OeYjeVPYvuXFrJQpleKnIEq5zc6jnrhwjTtxJIqMs2FXAvtYrpCPpTEBgg9+0vkcnpo/lmZL+a4VWMBmm0ka5g==",
+      "type": "package",
+      "path": "goblinfactory.konsole/5.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "goblinfactory.konsole.5.0.1.nupkg.sha512",
+        "goblinfactory.konsole.nuspec",
+        "lib/netstandard2.0/Goblinfactory.Konsole.dll",
+        "progress.png"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Goblinfactory.Konsole >= 5.0.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\User27\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\_MainData\\File-generator.git\\FileGenerator\\FileGenerator.csproj",
+      "projectName": "FileGenerator",
+      "projectPath": "C:\\_MainData\\File-generator.git\\FileGenerator\\FileGenerator.csproj",
+      "packagesPath": "C:\\Users\\User27\\.nuget\\packages\\",
+      "outputPath": "C:\\_MainData\\File-generator.git\\FileGenerator\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\User27\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "Goblinfactory.Konsole": {
+            "target": "Package",
+            "version": "[5.0.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FileGenerator/1.0.0": {
+        "dependencies": {
+          "Goblinfactory.Konsole": "5.0.1"
+        },
+        "runtime": {
+          "FileGenerator.dll": {}
+        }
+      },
+      "Goblinfactory.Konsole/5.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Goblinfactory.Konsole.dll": {
+            "assemblyVersion": "5.0.1.0",
+            "fileVersion": "5.0.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FileGenerator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Goblinfactory.Konsole/5.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OeYjeVPYvuXFrJQpleKnIEq5zc6jnrhwjTtxJIqMs2FXAvtYrpCPpTEBgg9+0vkcnpo/lmZL+a4VWMBmm0ka5g==",
+      "path": "goblinfactory.konsole/5.0.1",
+      "hashPath": "goblinfactory.konsole.5.0.1.nupkg.sha512"
+    }
+  }
+}
